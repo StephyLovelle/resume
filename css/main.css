@@ -1,16 +1,19 @@
 body {
-	background-image: url("http://homehdwallpaper.biz/wp-content/uploads/2015/01/rustic-barn-wood-background.jpg");
-	background-repeat: no-repeat;
+	background-image: url("http://www.myhuckleberryhandmade.com/wp-content/uploads/2013/04/bigstock-Old-Wood-Background-125775382.jpg");
+	background-repeat: repeat;
 	color:white;
-	border:1px solid black;
+	border:1px solid firebrick;
 	margin:40px;
-	padding:30px;
+	padding:50px;
+	font-family: 'Neuton', serif;
+    font-weight: 400;
 }
 
 h1 {
    font-style: italic;
    text-align: center;
-  
+   color: tomato;
+   
 }
 
 nav {
@@ -19,20 +22,24 @@ nav {
 }
 
 a {
-	color:green;
+	color:tan;
+
 }
 
-h4 {
+h3 {
 	text-align: center;
 	font-style: italic;
+    color: tomato;
 
 }
 
 p {
-  
-
-}
+   font-family: 'Neuton', serif;
+   font-weight: 400;
+  }
 
 footer {
-	text-align: center;
+	text-align: left;
 }
+
+
